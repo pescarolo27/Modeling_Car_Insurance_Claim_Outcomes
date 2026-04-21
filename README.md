@@ -6,6 +6,4 @@
 
 **The Data:** They have supplied you with their customer data as a csv file called car_insurance.csv, along with a table detailing the column names and descriptions below.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Machine learning was applied in this project.
+This project was done in March, 2025. Machine learning was applied in this project.
